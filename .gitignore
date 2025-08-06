@@ -1,0 +1,15 @@
+# Dependencies
+**/node_modules/
+
+# Production build folder
+**/build/
+
+# Environment variables (SECURITY RISK!)
+# This will ignore the .env file in the backend folder
+backend/.env
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.log
